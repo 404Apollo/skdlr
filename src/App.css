@@ -2,15 +2,34 @@
   text-align: center;
 }
 input[type="text"] {
-  line-height: 3;
+  line-height: 2;
   width: 25%;
+  
+}
+
+h1 {
+  background-color: #477bff;
+  color: #fff;
+  margin-bottom: 2rem;
+  padding: 2rem 1rem;
+  text-align: center;
+  font-size: 48px;
 }
 
 input[type="text"]:hover {
   background-color: #f5f5f5;
   transition: color 2s ease-in-out, background-color 0.15s ease-in-out;
+  font-size: 24px;
 }
 
+.section {
+  padding: 0.5rem 2rem 1rem 2rem;
+}
+
+.section:hover {
+  background-color: #f5f5f5;
+  transition: color 2s ease-in-out, background-color 0.15s ease-in-out;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
