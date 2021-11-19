@@ -1,5 +1,6 @@
 {
-    "name": "firebase-react-auth",
+    "name": "skdlr",
+    "homepage" : "https://skdlr.vercel.app/login",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
